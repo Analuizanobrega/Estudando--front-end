@@ -1,4 +1,28 @@
 body{
-    text-align:center
+    text-align:center;
     font-family:Open Sans,sans-serif;
+    background-color:#8A71C9;
+    color:#ffffff;
+}
+
+h2{
+    color:#2A0074;
+}
+
+.titulo-verde{
+    color:#04ff9f;
+}
+
+.titulo-vermelho{
+    color:#ff9e9e;
+}
+
+.titulo-amarelo{
+    color:#ffe36d;
+}
+
+section{
+    background-color: #c7b15a;
+    max-width: 60%;
+    margin:0 auto;
 }
