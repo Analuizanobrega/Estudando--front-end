@@ -58,3 +58,22 @@ a{
     color:#99ffff;
     font-weight: 700;
 }
+
+.menu-principal a{
+    color: #ffffff;
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+.menu-principal{
+    background-color: #ff6cb5;
+    height: 40px;
+    max-width: 60%;
+    margin:0  auto;
+}
+
+.menu-principal li{
+    display:inline-block;
+    line-height: 2.5;
+    margin: 0 89px;
+}
