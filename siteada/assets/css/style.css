@@ -24,8 +24,12 @@ h2{
 }
 
 section{
-    max-width: 60%;
+    width: 60%;
     margin:0 auto;
+}
+
+section section{
+    width: 100%;
 }
 
 h1{
@@ -76,4 +80,11 @@ a{
     display:inline-block;
     line-height: 2.5;
     margin: 0 89px;
+}
+
+button{
+    background-color: #41f341;
+    border: 1px solid transparent;
+    padding: 2px 20px;
+    border-radius: 3px;
 }
