@@ -1,0 +1,56 @@
+body {
+  font-family: Open Sans, sans-serif;
+}
+
+header {
+  height: 100px;
+  border-bottom: 1px solid #000;
+  margin-bottom: 40px;
+}
+
+h1 {
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+
+section {
+  margin: 0 auto;
+  display: block;
+  max-width: 1024px;
+  width: 100%;
+}
+
+.card {
+  display: inline-block;
+  margin: 10px;
+  border: 1px solid #000;
+  vertical-align: top;
+  max-height: 100%;
+}
+
+.card img {
+  display: block;
+  width: 300px;
+  height: 300px;
+}
+
+.card details {
+  width: 300px;
+  height: auto;
+  display: inline-block;
+}
+
+.card details summary {
+  font-size: 18px;
+  padding: 10px;
+}
+
+.card details p {
+  padding: 0 10px;
+}
+
+.card details blockquote {
+  color: #777;
+  font-style: italic;
+}
+
